@@ -2,5 +2,19 @@
     <string name="app_name">Proyectotest</string>
     <string name="txEmail">Email:</string>
     <string name="txPassword">Password:</string>
-    <string name="Login">Login</string>
+    <string name="SignIn">Sign In</string>
+    <string name="AppMultitask">AppMultitask</string>
+    <string name="Menu">Menu</string>
+    <string name="cambioMoneda">Cambio Moneda</string>
+    <string name="edadDias">Edad en Dias</string>
+    <string name="contactos">Contactos</string>
+    <string name="CambioDeMoneda">Cambio de Moneda</string>
+    <string name="TipoCambio">Ingrese el tipo de cambio</string>
+    <string name="MontoDolar">Ingrese el monto en dolares:</string>
+    <string name="Calcular">Calcular</string>
+    <string name="textResultado">El resultado en soles  es:</string>
+    <string name="TituloEdadDias">Edad en Dias</string>
+    <string name="FechaNacimiento">Ingrese su fecha de nacimiento:</string>
+    <string name="CalculaEdad">Calcular Edad</string>
+    <string name="SuEdadDias">Su edad en dias es:</string>
 </resources>
