@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Proyectotest</string>
+    <string name="txEmail">Email:</string>
+    <string name="txPassword">Password:</string>
+    <string name="Login">Login</string>
+</resources>
