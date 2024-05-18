@@ -17,4 +17,6 @@
     <string name="FechaNacimiento">Ingrese su fecha de nacimiento:</string>
     <string name="CalculaEdad">Calcular Edad</string>
     <string name="SuEdadDias">Su edad en dias es:</string>
+    <string name="resultado_format">Resultado en Soles: %.2f</string>
+    <string name="error_message">Falta dato</string>
 </resources>
