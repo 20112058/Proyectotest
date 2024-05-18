@@ -35,7 +35,7 @@ class MenuActivity : AppCompatActivity() {
 
         }
         btContactos.setOnClickListener {
-            val intent = Intent(this, CambioActivity::class.java)
+            val intent = Intent(this, ContactosActivity::class.java)
             startActivity(intent)
 
         }
